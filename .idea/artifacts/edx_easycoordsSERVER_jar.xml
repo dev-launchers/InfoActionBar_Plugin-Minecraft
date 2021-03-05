@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="edx_easycoordsSERVER:jar">
+    <output-path>$PROJECT_DIR$/../edxplTEST/plugins</output-path>
+    <root id="archive" name="edx_easycoords.jar">
+      <element id="module-output" name="edx_easycoords" />
+    </root>
+  </artifact>
+</component>

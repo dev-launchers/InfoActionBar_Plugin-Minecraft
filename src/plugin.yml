@@ -1,0 +1,5 @@
+name: EasyCords
+main: edcode09.pl.Main
+version: 1.0
+description: a plugin that shows you the coordinates in the action bar
+

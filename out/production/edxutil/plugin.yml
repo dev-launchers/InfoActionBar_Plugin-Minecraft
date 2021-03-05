@@ -1,0 +1,7 @@
+name: EdxTPl
+main: edcode09.pl.Main
+version: 0.1
+description: TEST TEST
+commands:
+  plpos:
+    description: Get Position of Specified Player -->   /plpos {PLAYER}
