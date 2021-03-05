@@ -1,3 +1,3 @@
 
 
-InfoActionbar Plugin v1  for spigot/paper version 1.16.x
+ＩｎｆｏＡｃｔｉｏｎｂａｒ Ｐｌｕｇｉｎ ｖ１ ｆｏｒ ｓｐｉｇｏｔ／ｐａｐｅｒ ｖｅｒｓｉｏｎ １．１６．ｘ
