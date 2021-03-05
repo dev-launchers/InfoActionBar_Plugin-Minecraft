@@ -1,3 +1,3 @@
 
-#__ InfoActionBar plugin v1 __
+# InfoActionBar plugin v1 
 ##  for spigot/papermc  1.16.x
